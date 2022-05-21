@@ -87,7 +87,7 @@ header{
 
 .nav{
     padding: 9px 25px;
-    background-color: rgb(9, 116, 209, 1);
+    background-color: rgb(132, 14, 115);
     border: none;
     border-radius: 50px;
     cursor: pointer;
@@ -95,5 +95,5 @@ header{
 }
 
 .nav:hover{
-    background-color: rgba(9, 116, 209, 0.8);
+    background-color: rgba(2, 11, 15);
 }
