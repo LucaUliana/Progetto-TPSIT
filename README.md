@@ -1,2 +1,2 @@
 # Videogame store
-Progetto di tpsit
+Progetto di TIPSIT
