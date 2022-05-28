@@ -97,3 +97,8 @@ header{
 .nav:hover{
     background-color: rgba(9, 116, 209, 0.8);
 }
+
+table{
+    color: aliceblue ;
+    margin-left: 50px;
+}

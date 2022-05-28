@@ -11,8 +11,8 @@ use \Jajo\JSONDB;
 
 class GameRepository {
     private static string $directoryDB = __DIR__;
-    private static string $tableName = 'Game';
-    private static string $fileName = 'Game.json';
+    private static string $tableName = 'Games';
+    private static string $fileName = 'Games.json';
 
     /**
      * Restituisce un array di tutte le istanze di SmartTV presenti nel database
@@ -30,8 +30,10 @@ class GameRepository {
             // scandisce tutto l'array ricavato con la query, istanzia le SmartTV, aggiunge all'array dei risultati
             foreach ($arrayDB as $objDB) {
                 $objGame = new Game(
-                    $objDB["Nome"],
-                    $objDB["Software_House"]
+                    $objDB["nome"],
+                    $objDB["nomeSviluppatore"],
+                    $objDB["valutazione"],
+                    
                 );
                 // ultimo volume memorizzato (attributo di stato)
                 // aggiunge l'istanza di SmartTV all'array

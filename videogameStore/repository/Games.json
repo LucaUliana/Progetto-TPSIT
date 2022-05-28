@@ -2,7 +2,7 @@
     {
         "nome": "Fortnite",
         "nomeSviluppatore": "Epic games",
-        "valutazione": 4.1
+        "valutazione": 5.0
     },
     {
         "nome": "PlayerUnknown's Battlegrounds",
@@ -17,6 +17,6 @@
     {
         "nome": "Counter Strike: Global Offensive",
         "nomeSviluppatore": "Valve, Hidden Path Entertainment",
-        "valutazioni": 4.2
+        "valutazione": 4.2
     }
 ]

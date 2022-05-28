@@ -1,9 +1,9 @@
 <?php
 
 class Game{
-    private $nome;
-    private $nomeSviluppatore;
-    private $valutazione;
+    public $nome;
+    public $nomeSviluppatore;
+    public $valutazione;
 
     function __construct($pNome, $pNomeSviluppatore, $pValutazione){
         $this->nome = $pNome;
@@ -11,5 +11,5 @@ class Game{
         $this->valutazione = $pValutazione;
     }
 }
-
+    
 ?>
