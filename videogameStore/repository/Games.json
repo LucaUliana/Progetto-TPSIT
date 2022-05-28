@@ -6,17 +6,27 @@
     },
     {
         "nome": "PlayerUnknown's Battlegrounds",
-        "nomeSviluppatore": "Krafton, PUBG Corporation",
+        "nomeSviluppatore": "Krafton",
         "valutazione": 3.9
     },
     {
         "nome": "The Binding of Isaac: Rebirth",
-        "nomeSviluppatore": "Nicalis Inc, Edmund McMillen",
+        "nomeSviluppatore": "Edmund McMillen",
         "valutazione": 4.6
     },
     {
         "nome": "Counter Strike: Global Offensive",
-        "nomeSviluppatore": "Valve, Hidden Path Entertainment",
+        "nomeSviluppatore": "Valve",
         "valutazione": 4.2
+    },
+    {
+        "nome": "Minecraft",
+        "nomeSviluppatore": "Mojang",
+        "valutazione": 4.7
+    },
+    {
+        "nome": "Clash Royale",
+        "nomeSviluppatore": "Supercell",
+        "valutazione": 3.9
     }
 ]
