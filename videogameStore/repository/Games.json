@@ -1,6 +1,22 @@
 [
     {
-        "Nome": "Fortnite",
-        "Software_House": "Epic game"
+        "nome": "Fortnite",
+        "nomeSviluppatore": "Epic games",
+        "valutazione": 4.1
+    },
+    {
+        "nome": "PlayerUnknown's Battlegrounds",
+        "nomeSviluppatore": "Krafton, PUBG Corporation",
+        "valutazione": 3.9
+    },
+    {
+        "nome": "The Binding of Isaac: Rebirth",
+        "nomeSviluppatore": "Nicalis Inc, Edmund McMillen",
+        "valutazione": 4.6
+    },
+    {
+        "nome": "Counter Strike: Global Offensive",
+        "nomeSviluppatore": "Valve, Hidden Path Entertainment",
+        "valutazioni": 4.2
     }
 ]
