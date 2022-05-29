@@ -26,7 +26,6 @@
 			<button method="post" class="menu">Settings</button>
 			</a>
 		</div>
-
     </body>
 </html>
 

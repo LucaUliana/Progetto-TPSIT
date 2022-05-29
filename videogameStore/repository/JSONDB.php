@@ -225,7 +225,7 @@ class JSONDB {
 		} else {
 			// Unknown load type
 			fclose( $f );
-			throw new \Exception( 'Write fail: Unkown load type provided', 'write_error' );
+			throw new \Exception( 'Write fail: Unkown load type provided', 0 );
 		}
 
 		fclose( $f );
@@ -296,7 +296,7 @@ class JSONDB {
 						$this->content[ $i ] = ( object ) array_merge( $content, $this->update );
 					}
 					else 
-						throw new Exception( 'Update method has an off key' );
+						throw new \Exception( 'Update method has an off key' );
 				}
 				else 
 					continue;
@@ -311,7 +311,7 @@ class JSONDB {
 				if( !array_diff_key( $this->update, $content ) ) 
 					$this->content[ $i ] = ( object ) array_merge( $content, $this->update );
 				else 
-					throw new Exception( 'Update method has an off key ' );
+					throw new \Exception( 'Update method has an off key ' );
 			}
 		}
 	}

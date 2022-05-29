@@ -2,7 +2,7 @@
     <head>
         <title>Videogame Shop</title>
         <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/gioco.css">
+        <link rel="stylesheet" href="css/paginaGiochi.css">
     </head>
     <body>
     <header>
@@ -29,11 +29,13 @@
 		<?php
 		foreach($arrayGame as $obj) {
 			echo "
-			<div class = 'gioco'>$obj->nome</div>";
+			<div class=\"gioco\">
+			<img class = \"immagineGioco\" src = \"$obj->immagine\">
+			<p class = \"gioco\">$obj->nome</p>
+			</div>";
 		}
 		?>
 		
 		</div>
-		
     </body>
 </html>

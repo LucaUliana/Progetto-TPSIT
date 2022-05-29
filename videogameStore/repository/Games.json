@@ -2,31 +2,81 @@
     {
         "nome": "Fortnite",
         "nomeSviluppatore": "Epic games",
-        "valutazione": 5.0
+        "valutazione": 5.0,
+        "prezzo": "gratuito",
+        "immagine": "./img/fortnite.jpg",
+        "acquistato": true
     },
     {
-        "nome": "PlayerUnknown's Battlegrounds",
+        "nome": "PlayerUnknown's <br> Battlegrounds",
         "nomeSviluppatore": "Krafton",
-        "valutazione": 3.9
+        "valutazione": 3.9,
+        "immagine": "./img/pubg.jpg",
+        "prezzo": "gratuito",
+        "acquistato": false
     },
     {
-        "nome": "The Binding of Isaac: Rebirth",
+        "nome": "The Binding <br> of Isaac: Afterbirth",
         "nomeSviluppatore": "Edmund McMillen",
-        "valutazione": 4.6
+        "valutazione": 4.6,
+        "immagine": "./img/tbosa.jpeg",
+        "prezzo": "14,99€",
+        "acquistato": false
     },
     {
-        "nome": "Counter Strike: Global Offensive",
+        "nome": "Counter Strike: <br> Global Offensive",
         "nomeSviluppatore": "Valve",
-        "valutazione": 4.2
+        "valutazione": 4.2,
+        "immagine": "./img/csgo.jpg",
+        "prezzo": "gratuito",
+        "acquistato": true
     },
     {
         "nome": "Minecraft",
         "nomeSviluppatore": "Mojang",
-        "valutazione": 4.7
+        "valutazione": 4.7,
+        "immagine": "./img/minecraft.jpg",
+        "prezzo": "23,95€",
+        "acquistato": false
     },
     {
         "nome": "Clash Royale",
         "nomeSviluppatore": "Supercell",
-        "valutazione": 3.9
+        "valutazione": 3.9,
+        "immagine": "./img/clash royale.jpg",
+        "prezzo": "gratuito",
+        "acquistato": false
+    },
+    {
+        "nome": "Rocket League",
+        "nomeSviluppatore": "Psyonix",
+        "valutazione": 4.4,
+        "immagine": "./img/rocket league.jpg",
+        "prezzo": "gratuito",
+        "acquistato": true
+    },
+    {
+        "nome": "The Forest",
+        "nomeSviluppatore": "Endnight Games Ltd",
+        "valutazione": 3.2,
+        "immagine": "./img/the forest.jpg",
+        "prezzo": "16,79€",
+        "acquistato": true
+    },
+    {
+        "nome": "Terraria",
+        "nomeSviluppatore": "Re-logic",
+        "valutazione": 4.7,
+        "immagine": "./img/terraria.jpg",
+        "prezzo": "9,99€",
+        "acquistato": false
+    },
+    {
+        "nome": "Outlast Trinity",
+        "nomeSviluppatore": "Red Barrels",
+        "valutazione": 4.9,
+        "immagine": "./img/outlast trilogy.jpg",
+        "prezzo": "16,79€",
+        "acquistato": true
     }
 ]

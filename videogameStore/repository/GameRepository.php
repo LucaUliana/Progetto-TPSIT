@@ -15,7 +15,7 @@ class GameRepository {
     private static string $fileName = 'Games.json';
 
     /**
-     * Restituisce un array di tutte le istanze di SmartTV presenti nel database
+     * Restituisce un array di tutte le istanze di gioco presenti nel database
      * @return array Array delle istanze individuate
      */
     public static function estrai_tutti(): array {
@@ -27,16 +27,19 @@ class GameRepository {
             $arrayDB = $db->select( '*' )
             	->from( self::$fileName )
                 ->get();
-            // scandisce tutto l'array ricavato con la query, istanzia le SmartTV, aggiunge all'array dei risultati
+            // scandisce tutto l'array ricavato con la query, istanzia i giochi, aggiunge all'array dei risultati
             foreach ($arrayDB as $objDB) {
                 $objGame = new Game(
                     $objDB["nome"],
                     $objDB["nomeSviluppatore"],
                     $objDB["valutazione"],
+                    $objDB["prezzo"],
+                    $objDB["immagine"],
+                    $objDB["acquistato"],
                     
                 );
                 // ultimo volume memorizzato (attributo di stato)
-                // aggiunge l'istanza di SmartTV all'array
+                // aggiunge l'istanza di giocho all'array
                 $arrayGame[] = $objGame;
             }
         } catch (\Throwable $th) {
