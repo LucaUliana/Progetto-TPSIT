@@ -11,7 +11,7 @@
 					<li class="nav-logo">VIDEOGAME STORE</li>
 				</ul>
 			</nav>
-			<a href="home.php">
+			<a href="../home.php">
 			<button class="browsing">Home</button>
 			</a>
 			
@@ -31,17 +31,25 @@
 		require("../repository/GameRepository.php");
 		// estrae l'array di tutte le istanze di SmartTV presenti nel database
 		$arrayGame = GameRepository::estrai_tutti();
-
 		?>
 		
 		<?php
+		
+
 		foreach($arrayGame as $obj) {
+
 			echo "
-			<div class=\"gioco\">
-			<img class = \"immagineGioco\" src = \"$obj->immagine\">
-			<p class = \"gioco\">$obj->nome</p>
-			</div>";
+			<form method='get' action='gamePage.php'>
+				<div class=\"gioco\">
+				<img class='immagineGioco' src='$obj->immagine'/>
+					<button class='menu' type='submit' name='percorso' value='$obj->nome'> $obj->nome </button>
+				</div>
+			</form>
+			
+			";
+
 		}
+
 		?>
 		
 		</div>

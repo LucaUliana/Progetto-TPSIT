@@ -47,6 +47,33 @@ class GameRepository {
         }
         return $arrayGame;
     }
+
+    public static function estrai(string $nome): ?Game {
+        $objGame = null;
+        try {
+            // crea una istanza di database che fa rifeirmento alla directory specificata
+            $db = new JSONDB(self::$directoryDB);
+            // estrae tutte tutti gli elementi dal database con nome file smart_tvs.json
+            $arrayDB = $db->select( '*' )
+            	->from( self::$fileName )
+                ->where( [ 'nome' => $nome ] )
+                ->get();
+            // ci deve essere un unico risultato
+            foreach ($arrayDB as $objDB) {
+                $objGame = new Game(
+                    $objDB["nome"],
+                    $objDB["nomeSviluppatore"],
+                    $objDB["valutazione"],
+                    $objDB["prezzo"],
+                    $objDB["immagine"],
+                    $objDB["acquistato"],
+                );
+            }
+        } catch (\Throwable $th) {
+            // throw $th;
+        }
+        return $objGame;
+    }
 }
 
 ?>

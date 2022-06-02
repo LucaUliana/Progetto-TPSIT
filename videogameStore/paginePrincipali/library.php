@@ -11,7 +11,7 @@
 					<li class="nav-logo">VIDEOGAME STORE</li>
 				</ul>
 			</nav>
-			<a href="home.php">
+			<a href="../home.php">
 			<button class="browsing">Home</button>
 			</a>
 			
@@ -39,7 +39,7 @@
 			if ($obj->acquistato == true){
 				echo "
 				<div class=\"gioco\">
-				<img class = \"immagineGioco\" src = \"$obj->immagine\">
+				<a href=\"gamePage.php\"> <img class = \"immagineGioco\" src = \"$obj->immagine\"></a>
 				<p class = \"gioco\">$obj->nome</p>
 				</div>";
 			}
