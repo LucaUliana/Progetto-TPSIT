@@ -18,7 +18,7 @@ $name= $_POST["name"];
 					<li class="nav-logo">VIDEOGAME STORE</li>
 				</ul>
 			</nav>
-			<a href="home.php">
+			<a href="../home.php">
 			<button class="browsing">Home</button>
 			</a>
 			
