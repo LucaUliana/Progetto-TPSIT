@@ -1,3 +1,11 @@
+<?php
+
+$firstName= $_POST["firstName"];
+$secondName= $_POST["secondName"];
+$name= $_POST["name"];
+?>
+
+
 <html>
     <head>
         <title>Videogame Shop</title>
@@ -18,11 +26,23 @@
 			<button class="browsing">Store</button>
 			</a>
 		</header>
-		<form action="profile" method="post">
-			<p>Nome</p> <input type="text" minlength="0" name="firstName" placeholder value>
-			<p>Cognome</p> <input type="text" minlength="0" name="SecondName" placeholder value>
-			<p>Nome Utente</p> <input type="text" minlength="0" name="Name" placeholder value><br>
-			<button type="submit" value="submit">SALVA I DATI</button>
-		</form>	
+		<div>
+			<img src="../img/utente.jpg">
+			<p>Nome : <?php echo $firstName ?> </p>
+			<p>Cognome : <?php echo $secondName ?> </p> 
+			<p>Nome Utente : <?php echo $name ?> </p> </br>
+
+			<h2>Modifica Dati Utente</h2>
+
+			<form action="#" method="post">
+				<input type="text" minlength="0" name="firstName" placeholder="Nome">
+				<input type="text" minlength="0" name="secondName" placeholder="Cognome">
+				<input type="text" minlength="0" name="name" placeholder="Nome Utente">
+				
+				<br><br>
+				<button type="submit" value="submit" onClick="alert('Dati Salvati');">SALVA I DATI</button>
+			</form>
+		</div>	
+		
     </body>
 </html>
