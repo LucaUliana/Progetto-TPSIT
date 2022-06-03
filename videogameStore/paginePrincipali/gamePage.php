@@ -35,26 +35,32 @@
 		if($obj->acquistato == 1)
 		{
 			echo "
-		<div class='gioco'>
-			<img class='immagineGioco' src = '$obj->immagine'>
-			<div class='descrizione'>
-				<img class='controller' src = '$obj->controller'>
-				<p class = 'nome'>$obj->nome</p>
-				<p class = 'nomeSviluppatore'>$obj->nomeSviluppatore</p>
-				<p class = 'valutazione'>Valutazione: <br>$obj->valutazione / 5.0</p>
-				<p class = 'prezzo'>$obj->prezzo</p>
-				<div class = 'posseduto'>Posseduto</div>
-			</div>
-			<p class = 'desc'>Descrizione: <br>$obj->descrizione</p>
-		</div>";
+			<div class='gioco'>
+				<img class='immagineGioco' src = '$obj->immagine'>
+				<div class='descrizione'>";
+				if ($obj->controller == 1){
+					echo "<img class='controller' src = '../img/controller.png'>";
+				}
+				echo "
+					<p class = 'nome'>$obj->nome</p>
+					<p class = 'nomeSviluppatore'>$obj->nomeSviluppatore</p>
+					<p class = 'valutazione'>Valutazione: <br>$obj->valutazione / 5.0</p>
+					<p class = 'prezzo'>$obj->prezzo</p>
+					<div class = 'posseduto'>Posseduto</div>
+				</div>
+				<p class = 'desc'>Descrizione: <br>$obj->descrizione</p>
+			</div>";
 		}
 		else{
 			echo "
 			<form action='giocoComprato.php' method='post'>
 				<div class='gioco'>
 					<img class='immagineGioco' src = '$obj->immagine'>
-					<div class='descrizione'>
-						<img class='controller' src = '$obj->controller'>
+					<div class='descrizione'>";
+					if ($obj->controller == 1){
+						echo "<img class='controller' src = '../img/controller.png'>";
+					}
+					echo"
 						<p class = 'nome'>$obj->nome</p>
 						<p class = 'nomeSviluppatore'>$obj->nomeSviluppatore</p>
 						<p class = 'valutazione'>Valutazione: <br>$obj->valutazione / 5.0</p>

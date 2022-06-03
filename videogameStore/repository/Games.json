@@ -7,7 +7,7 @@
         "prezzo": "gratuito",
         "immagine": "../img/fortnite.jpg",
         "acquistato": true,
-        "controller": "../img/controller.png"
+        "controller": true
     },
     {
         "nome": "League of legends",
@@ -17,7 +17,7 @@
         "immagine": "../img/lol.png",
         "prezzo": "gratuito",
         "acquistato": true,
-        "controller": "../img/divieto.png"
+        "controller": false
     },
     {
         "nome": "PlayerUnknowns </br> Battlegrounds",
@@ -27,7 +27,7 @@
         "immagine": "../img/pubg.jpg",
         "prezzo": "gratuito",
         "acquistato": false,
-        "controller": "../img/controller.png"
+        "controller": true
     },
     {
         "nome": "The Binding <br> of Isaac: Afterbirth",
@@ -37,7 +37,7 @@
         "immagine": "../img/tbosa.jpeg",
         "prezzo": "<s>14,99€</s> gratuito",
         "acquistato": false,
-        "controller": "../img/controller.png"
+        "controller": true
     },
     {
         "nome": "Counter Strike: <br> Global Offensive",
@@ -47,7 +47,7 @@
         "immagine": "../img/csgo.jpg",
         "prezzo": "gratuito",
         "acquistato": true,
-        "controller": "../img/divieto.png"
+        "controller": false
     },
     {
         "nome": "Minecraft",
@@ -57,7 +57,7 @@
         "immagine": "../img/minecraft.jpg",
         "prezzo": "23,95€",
         "acquistato": false,
-        "controller": "../img/controller.png"
+        "controller": true
     },
     {
         "nome": "Clash Royale",
@@ -67,7 +67,7 @@
         "immagine": "../img/clash royale.jpg",
         "prezzo": "gratuito",
         "acquistato": false,
-        "controller": "../img/divieto.png"
+        "controller": false
     },
     {
         "nome": "Rocket League",
@@ -77,7 +77,7 @@
         "immagine": "../img/rocket league.jpg",
         "prezzo": "gratuito",
         "acquistato": true,
-        "controller": "../img/controller.png"
+        "controller": true
     },
     {
         "nome": "The Forest",
@@ -87,7 +87,7 @@
         "immagine": "../img/the forest.jpg",
         "prezzo": "16,79€",
         "acquistato": true,
-        "controller": "../img/controller.png"
+        "controller": true
     },
     {
         "nome": "Terraria",
@@ -97,7 +97,7 @@
         "immagine": "../img/terraria.jpg",
         "prezzo": "9,99€",
         "acquistato": false,
-        "controller": "../img/controller.png"
+        "controller": true
     },
     {
         "nome": "Outlast Trinity",
@@ -107,7 +107,7 @@
         "immagine": "../img/outlast trilogy.jpg",
         "prezzo": "16,79€",
         "acquistato": true,
-        "controller": "../img/controller.png"
+        "controller": true
     },
     {
         "nome": "Among Us",
@@ -117,7 +117,7 @@
         "immagine": "../img/among us.jpg",
         "prezzo": "3,99€",
         "acquistato": true,
-        "controller": "../img/divieto.png"
+        "controller": false
     },
     {
         "nome": "Grand Theft Auto <br> San Andreas",
@@ -127,7 +127,7 @@
         "immagine": "../img/gta san andreas.jpg",
         "prezzo": "<s>60,00€</s> 29,99€",
         "acquistato": true,
-        "controller": "../img/controller.png"
+        "controller": true
     },
     {
         "nome": "The Swords Of Ditto: <br> Mormos curse",
@@ -137,7 +137,7 @@
         "immagine": "../img/the swords of ditto.png",
         "prezzo": "12,49€",
         "acquistato": false,
-        "controller": "../img/divieto.png"
+        "controller": false
     },
     {
         "nome": "Doki Doki Literature Club!",
@@ -147,7 +147,7 @@
         "immagine": "../img/ddlc.jpg",
         "prezzo": "gratuito",
         "acquistato": true,
-        "controller": "../img/divieto.png"
+        "controller": false
     },
     {
         "nome": "Tom Clancys Rainbow Six Siege",
@@ -157,7 +157,7 @@
         "immagine": "../img/rainbow.jpg",
         "prezzo": "19,99€",
         "acquistato": false,
-        "controller": "../img/controller.png"
+        "controller": true
     },
     {
         "nome": "Borderlands3",
@@ -167,7 +167,7 @@
         "immagine": "../img/Borderlands3.jpeg",
         "prezzo": "14.99€",
         "acquistato": false,
-        "controller": "../img/controller.png"
+        "controller": true
     },
     {
         "nome": "Godfall",
@@ -177,7 +177,7 @@
         "immagine": "../img/Godfall.jpg",
         "prezzo": "29.99€",
         "acquistato": false,
-        "controller": "../img/divieto.png"
+        "controller": false
     },
     {
         "nome": "Overcooked!2",
@@ -187,7 +187,7 @@
         "immagine": "../img/overcooked2.jpg",
         "prezzo": "22.99€",
         "acquistato": false,
-        "controller": "../img/controller.png"
+        "controller": true
     },
     {
         "nome": "Control",
@@ -197,7 +197,7 @@
         "immagine": "../img/control.jpg",
         "prezzo": "13.99€",
         "acquistato": false,
-        "controller": "../img/divieto.png"
+        "controller": false
     },
     {
         "nome": "Dandara: Trials of Fear Edition",
@@ -207,7 +207,7 @@
         "immagine": "../img/dandara.jpg",
         "prezzo": "gratuito",
         "acquistato": true,
-        "controller": "../img/divieto.png"
+        "controller": false
     },
     {
         "nome": "NBA 2K21",
@@ -217,7 +217,7 @@
         "immagine": "../img/NBA2k21.jpg",
         "prezzo": "<s>59.99€</s> 19.99€",
         "acquistato": true,
-        "controller": "../img/controller.png"
+        "controller": true
     },
     {
         "nome": "The Escapists",
@@ -227,7 +227,7 @@
         "immagine": "../img/Escapist.png",
         "prezzo": "14.99€",
         "acquistato": false,
-        "controller": "../img/divieto.png"
+        "controller": false
     },
     {
         "nome": "Deponia: The Complete Journey",
@@ -237,7 +237,7 @@
         "immagine": "../img/deponia.jpg",
         "prezzo": "<s>29.99€</s> 13.99€",
         "acquistato": false,
-        "controller": "../img/divieto.png"
+        "controller": false
     },
     {
         "nome": "Guild of Dungeoneering",
@@ -247,7 +247,7 @@
         "immagine": "../img/dungeon.jpg",
         "prezzo": "gratuito",
         "acquistato": true,
-        "controller": "../img/divieto.png"
+        "controller": false
     },
     {
         "nome": "Knockout City™",
@@ -257,7 +257,7 @@
         "immagine": "../img/city.jpg",
         "prezzo": "29.99€",
         "acquistato": true,
-        "controller": "../img/controller.png"
+        "controller": true
     },
     {
         "nome": "Riverbond",
@@ -267,7 +267,7 @@
         "immagine": "../img/rive.jpg",
         "prezzo": "<s>19.99€</s> 15.99€",
         "acquistato": true,
-        "controller": "../img/divieto.png"
+        "controller": false
     },
     {
         "nome": "Subnautica",
@@ -277,6 +277,6 @@
         "immagine": "../img/subanutica.jpg",
         "prezzo": "49.99€",
         "acquistato": true,
-        "controller": "../img/controller.png"
+        "controller": true
     }
 ]
