@@ -1,8 +1,19 @@
 <?php
 
-$firstName= $_POST["firstName"];
-$secondName= $_POST["secondName"];
-$name= $_POST["name"];
+$firstName = "";
+$secondName = "";
+$name = "";
+
+if(isset($_POST["firstName"])){
+	$firstName = $_POST["firstName"];
+}
+if(isset($_POST["secondName"])){
+	$secondName = $_POST["secondName"];
+}
+if(isset($_POST["name"])){
+	$name = $_POST["name"];
+}
+	
 ?>
 
 
@@ -46,3 +57,4 @@ $name= $_POST["name"];
 		
     </body>
 </html>
+
