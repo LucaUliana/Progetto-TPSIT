@@ -12,15 +12,17 @@
 .immagineGioco{
     height: 400px;
     width: 250px;
-    border: 5px solid rgba(255,255,255,0.5);
+    border: 4px solid rgb(54, 54, 46);
 }
 
 button[type="submit"] {
     width: auto;
     height: auto;
-    border: 3px solid #3c4a9b;
+    border: 1.5px solid rgba(46, 31, 31, 0.363);
 }
 
 button[type="submit"]:before{
-    background-color: #15278f;
+    background-color:rgba(46, 31, 31, 0.205);
+    ;
 }
+
