@@ -126,29 +126,12 @@
         "acquistato": true
     },
     {
-        "nome": "Tom Clancys Rainbow Six Siege",
+        "nome": "Acquista Tom Clancys Rainbow Six Siege",
         "nomeSviluppatore": "Ubisoft Montreal",
         "valutazione": "3.7",
         "descrizione" : "Tom Clancy's Rainbow Six Siege è il nuovo capitolo dell'acclamato franchise di sparatutto in prima persona sviluppato dal rinomato studio Ubisoft Montreal.",
         "immagine": "../img/rainbow.jpg",
         "prezzo": "19,99€",
-        "acquistato": false
-    },
-    {
-        "nome": "Borderlands 3",
-        "nomeSviluppatore": "Gearbox Software",
-        "valutazione": "3.7",
-        "descrizione" : "Il leggendario sparatutto è tornato, con goziliardi di armi e un'avventura oltre i confini del caos! Esplora nuovi mondi e affronta nemici mai visti, da solo o in co-op, nei panni di uno dei quattro cacciatori della Cripta.",
-        "immagine": "../img/Borderlands3.jpeg",
-        "prezzo": "14.99€",
-        "acquistato": false
-    },
-    {
-        "nome": "Godfall",
-        "nomeSviluppatore": "Counterplay Games",
-        "valutazione": "valutazione: 3.9",
-        "immagine": "../img/Godfall.jpg",
-        "prezzo": "29.99",
         "acquistato": false
     }
 ]

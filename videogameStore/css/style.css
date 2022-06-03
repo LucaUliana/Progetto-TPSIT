@@ -7,7 +7,6 @@
     color: rgb(101, 100, 104);
 }
 
-
 /********************************************************/
 
 
@@ -169,28 +168,5 @@ border-radius: 100px;
 }
 
 #scuro:hover{
-    background-color: rgba(173, 66, 255, 0.4);
-}
-
-/*******************/
-
-#chiaro{
-    margin: 10px;
-    font-family: "Montserrat", sans-serif;
-    list-style-type: none;
-    font-weight: 500;
-    font-size: 16px;
-    color: rgb(145, 118, 165);
-    text-decoration: none;
-    padding: 15px 30px;
-    background-color: rgb(204, 207, 173);
-    border: solid 4px;
-    border-color: rgb(145, 118, 165);
-    border-radius: 5px;
-    cursor: pointer;
-    transition: all 0.3s ease 0s;
-}
-
-#chiaro:hover{
     background-color: rgba(173, 66, 255, 0.4);
 }
