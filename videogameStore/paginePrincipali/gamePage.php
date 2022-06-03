@@ -41,6 +41,7 @@
 				<p class = 'nome'>$obj->nome</p>
 				<p class = 'nomeSviluppatore'>$obj->nomeSviluppatore</p>
 				<p class = 'valutazione'>$obj->valutazione / 5.0</p>
+				<p class = 'descrizione'>$obj->descrizione</p>
 				<p class = 'prezzo'>$obj->prezzo</p>
 				<div class = 'posseduto'>Posseduto</div>
 			</div>
@@ -55,6 +56,7 @@
 					<p class = 'nome'>$obj->nome</p>
 					<p class = 'nomeSviluppatore'>$obj->nomeSviluppatore</p>
 					<p class = 'valutazione'>$obj->valutazione / 5.0</p>
+					<p class = 'descrizione'>$obj->descrizione</p>
 					<p class = 'prezzo'>$obj->prezzo</p>
 					<button class = 'menu'>Compra</button>
 				</div>
