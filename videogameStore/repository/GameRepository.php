@@ -36,6 +36,7 @@ class GameRepository {
                     $objDB["prezzo"],
                     $objDB["immagine"],
                     $objDB["acquistato"],
+                    $objDB["descrizione"],
                     
                 );
                 // ultimo volume memorizzato (attributo di stato)
@@ -67,6 +68,7 @@ class GameRepository {
                     $objDB["prezzo"],
                     $objDB["immagine"],
                     $objDB["acquistato"],
+                    $objDB["descrizione"],
                 );
             }
         } catch (\Throwable $th) {
