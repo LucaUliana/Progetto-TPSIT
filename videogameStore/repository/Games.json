@@ -126,7 +126,7 @@
         "acquistato": true
     },
     {
-        "nome": "Acquista Tom Clancys Rainbow Six Siege",
+        "nome": "Tom Clancys Rainbow Six Siege",
         "nomeSviluppatore": "Ubisoft Montreal",
         "valutazione": "3.7",
         "descrizione" : "Tom Clancy's Rainbow Six Siege è il nuovo capitolo dell'acclamato franchise di sparatutto in prima persona sviluppato dal rinomato studio Ubisoft Montreal.",
@@ -135,7 +135,7 @@
         "acquistato": false
     },
     {
-        "nome": "Acquista Borderlands3",
+        "nome": "Borderlands 3",
         "nomeSviluppatore": "Gearbox Software",
         "valutazione": "3.7",
         "descrizione" : "Il leggendario sparatutto è tornato, con goziliardi di armi e un'avventura oltre i confini del caos! Esplora nuovi mondi e affronta nemici mai visti, da solo o in co-op, nei panni di uno dei quattro cacciatori della Cripta.",
