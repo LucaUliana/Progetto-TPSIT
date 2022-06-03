@@ -49,6 +49,7 @@
     opacity: 0;
     content: "";
     background-color: #19668a;
+    color: white;
 }
 
 .menu:hover:before{
