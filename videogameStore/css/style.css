@@ -143,3 +143,54 @@ border-radius: 100px;
     background-image: linear-gradient(180deg, #D0368A 0%, #708AD4 99%);
     box-shadow: inset 2px 2px 5px 0 rgba(#fff, 0.5);
 }
+
+
+/*******************************************************/
+
+
+
+    
+#scuro{
+    margin-top: 5%;
+    margin-left: 40%;
+    font-family: "Montserrat", sans-serif;
+    list-style-type: none;
+    font-weight: 500;
+    font-size: 16px;
+    color: rgb(122, 105, 137);
+    text-decoration: none;
+    padding: 15px 30px;
+    background-color: rgb(19, 17, 17);
+    border: solid 4px;
+    border-color: rgb(122, 105, 137);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+#scuro:hover{
+    background-color: rgba(173, 66, 255, 0.4);
+}
+
+/*******************/
+
+#chiaro{
+    margin: 10px;
+    font-family: "Montserrat", sans-serif;
+    list-style-type: none;
+    font-weight: 500;
+    font-size: 16px;
+    color: rgb(145, 118, 165);
+    text-decoration: none;
+    padding: 15px 30px;
+    background-color: rgb(204, 207, 173);
+    border: solid 4px;
+    border-color: rgb(145, 118, 165);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+#chiaro:hover{
+    background-color: rgba(173, 66, 255, 0.4);
+}
