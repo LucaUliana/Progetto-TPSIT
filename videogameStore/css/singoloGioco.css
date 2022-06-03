@@ -1,7 +1,8 @@
 .immagineGioco{
     height: 600px;
     width: 350px;
-    border: 5px solid rgba(255,255,255,0.5);
+    border: 4px solid rgba(52, 11, 165, 0.363);
+    border-radius: 5px;
 }
 
 .gioco{
@@ -33,23 +34,6 @@
 .nomeSviluppatore{
     font-size: 30px;
     font-weight: 400;
-
-    text-transform: uppercase;
-    font-family: verdana;
-    color: #a5a5a5;
-    text-shadow: 1px 1px 1px #919191,
-        1px 2px 1px #919191,
-        1px 3px 1px #919191,
-    1px 18px 6px rgba(16,16,16,0.4),
-    1px 22px 10px rgba(16,16,16,0.2),
-    1px 25px 35px rgba(16,16,16,0.2),
-    1px 30px 60px rgba(16,16,16,0.4);
-    
-}
-
-.descrizione{
-    font-size: 15px;
-    font-weight: 200;
 
     text-transform: uppercase;
     font-family: verdana;
@@ -119,4 +103,16 @@
 
 .menu:before{
     background-color: rgb(114, 59, 156, 0.3);
+}
+
+#titolo{
+    text-align: center;
+    padding: 200px 0;
+    color: rgb(205, 196, 233);
+}
+
+.desc{
+    margin: 50px;
+    padding: 0 100px;
+    color: rgba(255, 255, 255, 0.916);
 }

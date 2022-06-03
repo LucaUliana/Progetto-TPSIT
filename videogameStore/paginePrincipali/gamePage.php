@@ -2,7 +2,7 @@
     <head>
         <title>Videogame Shop</title>
         <link rel="stylesheet" href="../css/style.css">
-        <link rel="stylesheet" href="../css/singoloGioco.css">
+        <link rel="stylesheet" href="../css/singoloGioco.css">		
     </head>
     <body>
         <header>
@@ -41,30 +41,33 @@
 				<p class = 'nome'>$obj->nome</p>
 				<p class = 'nomeSviluppatore'>$obj->nomeSviluppatore</p>
 				<p class = 'valutazione'>$obj->valutazione / 5.0</p>
-				<p class = 'descrizione'>$obj->descrizione</p>
 				<p class = 'prezzo'>$obj->prezzo</p>
 				<div class = 'posseduto'>Posseduto</div>
 			</div>
-			
+			<p class = 'desc'>Descrizione: <br>$obj->descrizione</p>
 		</div>";
 		}
 		else{
 			echo "
-			<div class='gioco'>
-				<img class='immagineGioco' src = '$obj->immagine'>
-				<div class='descrizione'>
-					<p class = 'nome'>$obj->nome</p>
-					<p class = 'nomeSviluppatore'>$obj->nomeSviluppatore</p>
-					<p class = 'valutazione'>$obj->valutazione / 5.0</p>
-					<p class = 'descrizione'>$obj->descrizione</p>
-					<p class = 'prezzo'>$obj->prezzo</p>
-					<button class = 'menu'>Compra</button>
+			<form action='giocoComprato.php' method='post'>
+				<div class='gioco'>
+					<img class='immagineGioco' src = '$obj->immagine'>
+					<div class='descrizione'>
+						<p class = 'nome'>$obj->nome</p>
+						<p class = 'nomeSviluppatore'>$obj->nomeSviluppatore</p>
+						<p class = 'valutazione'>$obj->valutazione / 5.0</p>
+						<p class = 'prezzo'>$obj->prezzo</p>
+						<input type='submit' class = 'menu' name='action' value='Compra'></input>
+					</div>
+					<p class = 'desc'>Descrizione: <br>$obj->descrizione</p>
 				</div>
-				
-			</div>";
+			</form>	";
 		}
 
-		
+		if($_SERVER['REQUEST_METHOD'] == "GET" and isset($_GET['action']))
+		{
+			$obj->compra();
+		}
 
 		?>
 		

@@ -2,7 +2,7 @@
     {
         "nome": "Fortnite",
         "nomeSviluppatore": "Epic games",
-        "descrizione" : "Descrizione: <br>L'OI ha schierato guardie e Astrostazioni, ma la Ribellione ha dalla sua nuove tattiche, come lo scatto, l'arrampicata e altro ancora. Sali a bordo di un Bus della battaglia corazzato per diventare più forte o attacca un Acchiappamucche al tuo camion per ottenere maggiore forza di speronamento. Sfida i tuoi avversari nella battaglia finale per il Punto zero nel Capitolo 3, Stagione 2: Ribellione!",
+        "descrizione" : "L'OI ha schierato guardie e Astrostazioni, ma la Ribellione ha dalla sua nuove tattiche, come lo scatto, l'arrampicata e altro ancora. Sali a bordo di un Bus della battaglia corazzato per diventare più forte o attacca un Acchiappamucche al tuo camion per ottenere maggiore forza di speronamento. Sfida i tuoi avversari nella battaglia finale per il Punto zero nel Capitolo 3, Stagione 2: Ribellione!",
         "valutazione": "valutazione: 5.0",
         "prezzo": "gratuito",
         "immagine": "../img/fortnite.jpg",
@@ -12,7 +12,7 @@
         "nome": "PlayerUnknowns </br> Battlegrounds",
         "nomeSviluppatore": "Krafton",
         "valutazione": "valutazione: 3.9",
-        "descrizione" : "Descrizione: <br>ATTERRA, SACCHEGGIA, SOPRAVVIVI!<br>Gioca gratuitamente a PUBG: BATTLEGROUNDS.<br>Atterra in luoghi strategici, fai incetta di armi e rifornimenti e sopravvivi per far sì che la tua squadra sia l'ultima a rimanere in gioco.<br>Fai squadra e scendi in campo per un'autentica esperienza Battle Royale che solo PUBG: BATTLEGROUNDS può offrire.",
+        "descrizione" : "ATTERRA, SACCHEGGIA, SOPRAVVIVI!<br>Gioca gratuitamente a PUBG: BATTLEGROUNDS.<br>Atterra in luoghi strategici, fai incetta di armi e rifornimenti e sopravvivi per far sì che la tua squadra sia l'ultima a rimanere in gioco.<br>Fai squadra e scendi in campo per un'autentica esperienza Battle Royale che solo PUBG: BATTLEGROUNDS può offrire.",
         "immagine": "../img/pubg.jpg",
         "prezzo": "gratuito",
         "acquistato": false
@@ -21,7 +21,7 @@
         "nome": "The Binding <br> of Isaac: Afterbirth",
         "nomeSviluppatore": "Edmund McMillen",
         "valutazione": "valutazione: 4.4",
-        "descrizione" : "Descrizione: <br>Quando la madre di Isaac inizia a sentire la voce di Dio che richiede il compimento di un sacrificio per dimostrare la sua fede, Isaac scappa nei seminterrato affrontando frotte di nemici squilibrati, fratelli e sorelle perduti, le sue paure, e all fine anche sua madre.<br>The Binding of Isaac è uno Shooter GDR fatto di livelli casualmente generati con elementi estremamente simili al Rogue. Seguendo Isaac nel suo viaggio i giocatori troveranno tesori bizzarri che cambieranno le forme di Isaac dandogli poteri sovrumani e permettendogli di combattere frotte di creature misteriose, scoprire segreti e lottare per la via della salvezza.",
+        "descrizione" : "Quando la madre di Isaac inizia a sentire la voce di Dio che richiede il compimento di un sacrificio per dimostrare la sua fede, Isaac scappa nei seminterrato affrontando frotte di nemici squilibrati, fratelli e sorelle perduti, le sue paure, e all fine anche sua madre.<br>The Binding of Isaac è uno Shooter GDR fatto di livelli casualmente generati con elementi estremamente simili al Rogue. Seguendo Isaac nel suo viaggio i giocatori troveranno tesori bizzarri che cambieranno le forme di Isaac dandogli poteri sovrumani e permettendogli di combattere frotte di creature misteriose, scoprire segreti e lottare per la via della salvezza.",
         "immagine": "../img/tbosa.jpeg",
         "prezzo": "14,99€",
         "acquistato": false
@@ -30,7 +30,7 @@
         "nome": "Counter Strike: <br> Global Offensive",
         "nomeSviluppatore": "Valve",
         "valutazione": "valutazione: 4.2",
-        "descrizione" : "Descrizione: <br>Counter-Strike: Global Offensive (CS:GO) amplia il gameplay d'azione a squadre presentato per la prima volta 19 anni fa. CS:GO include nuove mappe, personaggi, armi e modalità di gioco e offre versioni aggiornate del classico contenuto di Counter-Strike (de_dust2, ecc.).",
+        "descrizione" : "Counter-Strike: Global Offensive (CS:GO) amplia il gameplay d'azione a squadre presentato per la prima volta 19 anni fa. CS:GO include nuove mappe, personaggi, armi e modalità di gioco e offre versioni aggiornate del classico contenuto di Counter-Strike (de_dust2, ecc.).",
         "immagine": "../img/csgo.jpg",
         "prezzo": "gratuito",
         "acquistato": true
@@ -39,7 +39,7 @@
         "nome": "Minecraft",
         "nomeSviluppatore": "Mojang",
         "valutazione": "valutazione: 4.7",
-        "descrizione" : "Descrizione: <br>Preparati a un'avventura con possibilità illimitate mentre costruisci, estrai, combatti mob ed esplori il paesaggio in continua evoluzione di Minecraft.",
+        "descrizione" : "Preparati a un'avventura con possibilità illimitate mentre costruisci, estrai, combatti mob ed esplori il paesaggio in continua evoluzione di Minecraft.",
         "immagine": "../img/minecraft.jpg",
         "prezzo": "23,95€",
         "acquistato": false
@@ -48,7 +48,7 @@
         "nome": "Clash Royale",
         "nomeSviluppatore": "Supercell",
         "valutazione": "valutazione: 1.3",
-        "descrizione" : "Descrizione: <br>multiplayer gratuito in tempo reale i cui protagonisti sono i personaggi di Clash of Clans. I Royale si sfidano in epiche battaglie 1v1 e 2v2, nelle quali è soprattutto l'astuzia a fare la differenza.",
+        "descrizione" : "multiplayer gratuito in tempo reale i cui protagonisti sono i personaggi di Clash of Clans. I Royale si sfidano in epiche battaglie 1v1 e 2v2, nelle quali è soprattutto l'astuzia a fare la differenza.",
         "immagine": "../img/clash royale.jpg",
         "prezzo": "gratuito",
         "acquistato": false
@@ -57,7 +57,7 @@
         "nome": "Rocket League",
         "nomeSviluppatore": "Psyonix",
         "valutazione": "valutazione: 4.4",
-        "descrizione" : "Descrizione: <br>Scarica e unisciti alla sfida in questo incredibile ibrido del calcio arcade e del caos tra macchine! Personalizza la tua vettura, scendi in campo e metti in mostra le tue abilità in uno dei più amati giochi di sport di tutti i tempi! Scaricalo e fai la tua mossa!<br><br>Scendi in campo da solo o con i tuoi amici e goditi le modalità online 1v1, 2v2 e 3v3 oppure scopri le modalità addizionali Rissa, Snow Day e Canestro. Sblocca gli oggetti del Rocket Pass, scala i livelli competitivi, sfida gli avversari nei tornei competitivi, completa le sfide, approfitta dei progressi multipiattaforma e molto di più! Il campo ti sta aspettando. Fai la tua mossa!",
+        "descrizione" : "Scarica e unisciti alla sfida in questo incredibile ibrido del calcio arcade e del caos tra macchine! Personalizza la tua vettura, scendi in campo e metti in mostra le tue abilità in uno dei più amati giochi di sport di tutti i tempi! Scaricalo e fai la tua mossa!<br><br>Scendi in campo da solo o con i tuoi amici e goditi le modalità online 1v1, 2v2 e 3v3 oppure scopri le modalità addizionali Rissa, Snow Day e Canestro. Sblocca gli oggetti del Rocket Pass, scala i livelli competitivi, sfida gli avversari nei tornei competitivi, completa le sfide, approfitta dei progressi multipiattaforma e molto di più! Il campo ti sta aspettando. Fai la tua mossa!",
         "immagine": "../img/rocket league.jpg",
         "prezzo": "gratuito",
         "acquistato": true
@@ -66,7 +66,7 @@
         "nome": "The Forest",
         "nomeSviluppatore": "Endnight Games Ltd",
         "valutazione": "valutazione: 3.2",
-        "descrizione" : "Descrizione: <br>Nei panni dell'unico sopravvissuto a un incidente di un aereo, ti ritrovi in ​​una foresta misteriosa a combattere per sopravvivere contro una società di mutanti cannibali. Costruisci, esplora, sopravvivi in ​​questo terrificante simulatore di survival horror in prima persona.",
+        "descrizione" : "Nei panni dell'unico sopravvissuto a un incidente di un aereo, ti ritrovi in ​​una foresta misteriosa a combattere per sopravvivere contro una società di mutanti cannibali. Costruisci, esplora, sopravvivi in ​​questo terrificante simulatore di survival horror in prima persona.",
         "immagine": "../img/the forest.jpg",
         "prezzo": "16,79€",
         "acquistato": true
@@ -75,7 +75,7 @@
         "nome": "Terraria",
         "nomeSviluppatore": "Re-logic",
         "valutazione": "valutazione: 2.7",
-        "descrizione" : "Descrizione: <br>Il mondo stesso è a portata di mano mentre combatti per la sopravvivenza, la fortuna e la gloria. Immergiti in distese cavernose, cerca nemici sempre più grandi per mettere alla prova il tuo coraggio in combattimento o costruisci la tua città - Nel mondo di Terraria, la scelta è tua!",
+        "descrizione" : "Il mondo stesso è a portata di mano mentre combatti per la sopravvivenza, la fortuna e la gloria. Immergiti in distese cavernose, cerca nemici sempre più grandi per mettere alla prova il tuo coraggio in combattimento o costruisci la tua città - Nel mondo di Terraria, la scelta è tua!",
         "immagine": "../img/terraria.jpg",
         "prezzo": "9,99€",
         "acquistato": false
@@ -84,7 +84,7 @@
         "nome": "Outlast Trinity",
         "nomeSviluppatore": "Red Barrels",
         "valutazione": "valutazione: 4.9",
-        "descrizione" : "Descrizione: <br>Ambientato nell'era della Guerra fredda, in cui cavie umane sono reclutate a loro insaputa da 'brave persone' della Murkoff Corporation per testare nuovi metodi avanzati di lavaggio del cervello e controllo della mente. In un mondo permeato di sfiducia, paura e violenza, i tuoi principi etici saranno attaccati, la tua resistenza messa alla prova e la tua salute mentale schiacciata. Tutto nel nome del progresso, della scienza e del profitto.",
+        "descrizione" : "Ambientato nell'era della Guerra fredda, in cui cavie umane sono reclutate a loro insaputa da 'brave persone' della Murkoff Corporation per testare nuovi metodi avanzati di lavaggio del cervello e controllo della mente. In un mondo permeato di sfiducia, paura e violenza, i tuoi principi etici saranno attaccati, la tua resistenza messa alla prova e la tua salute mentale schiacciata. Tutto nel nome del progresso, della scienza e del profitto.",
         "immagine": "../img/outlast trilogy.jpg",
         "prezzo": "16,79€",
         "acquistato": true
@@ -93,7 +93,7 @@
         "nome": "Among Us",
         "nomeSviluppatore": "InnerSloth LLC",
         "valutazione": "valutazione: 5.0",
-        "descrizione" : "Descrizione: <br>La vita di un astronauta: completa tutti gli incarichi per vincere, ma fai attenzione agli impostori! Segnala i cadaveri e convoca riunioni d'emergenza per espellere gli impostori. Scegli con attenzione!<br><br>Gioca nei panni di un impostore: semina il caos, muoviti furtivamente e incastra astronauti innocenti! Per vincere, dovrai uccidere tutti gli astronauti... Dimostrerai di essere un maestro del sabotaggio?",
+        "descrizione" : "La vita di un astronauta: completa tutti gli incarichi per vincere, ma fai attenzione agli impostori! Segnala i cadaveri e convoca riunioni d'emergenza per espellere gli impostori. Scegli con attenzione!<br><br>Gioca nei panni di un impostore: semina il caos, muoviti furtivamente e incastra astronauti innocenti! Per vincere, dovrai uccidere tutti gli astronauti... Dimostrerai di essere un maestro del sabotaggio?",
         "immagine": "../img/among us.jpg",
         "prezzo": "3,99€",
         "acquistato": true

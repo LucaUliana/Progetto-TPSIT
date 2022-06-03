@@ -18,6 +18,16 @@ class Game{
         $this->acquistato = $pAcquistato;
         $this->descrizione = $pDescrizione;
     }
+
+    function compra(){
+		$jsonString = file_get_contents('../repository/Games.json');
+		$data = json_decode($jsonString, true);
+
+		$data[1]["acquistato"] = true;
+
+		$newJsonString = json_encode($data);
+		file_put_contents('../repository/Games.json', $newJsonString);
+	}
 }
     
 ?>
