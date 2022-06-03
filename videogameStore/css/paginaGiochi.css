@@ -5,10 +5,12 @@
 .listaGiochi{
     display: grid;
     justify-content: space-between;
-    grid-template-columns: auto auto auto auto auto auto;
+    grid-template-columns: auto auto auto auto auto;
     text-align: center;
-    padding-bottom: 50px;
-    padding-top: 30px;
+    padding-bottom: 100px;
+    padding-top: 150px;
+    padding-right: 50px;
+    padding-left: 50px;
 }
 
 .immagineGioco{
@@ -34,5 +36,5 @@ button[type="submit"]:before{
 }
 
 .gioco{
-    padding-bottom: 70px;
+    padding-bottom: 80px;
 }
