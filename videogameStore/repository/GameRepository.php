@@ -36,7 +36,8 @@ class GameRepository {
                     $objDB["prezzo"],
                     $objDB["immagine"],
                     $objDB["acquistato"],
-                    $objDB["descrizione"],
+                    $objDB["descrizione"], 
+                    $objDB["controller"],
                 );
                 // ultimo volume memorizzato (attributo di stato)
                 // aggiunge l'istanza di giocho all'array
@@ -67,7 +68,8 @@ class GameRepository {
                     $objDB["prezzo"],
                     $objDB["immagine"],
                     $objDB["acquistato"],
-                    $objDB["descrizione"],
+                    $objDB["descrizione"],                    
+                    $objDB["controller"],
                 );
             }
         } catch (\Throwable $th) {

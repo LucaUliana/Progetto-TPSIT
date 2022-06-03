@@ -1,13 +1,7 @@
 .immagineGioco{
     height: 600px;
     width: 350px;
-    border: 4px solid rgba(52, 11, 165, 0.363);
-    border-radius: 5px;
-}
-
-.controller{
-    height: 50px;
-    width: 50px;
+    border: 5px solid rgba(255,255,255,0.5);
 }
 
 .gioco{
@@ -24,7 +18,7 @@
 
     text-transform: uppercase;
     font-family: verdana;
-    color: #f5f5f5;
+    color: #000000;
     text-shadow: 1px 1px 1px #919191,
         1px 2px 1px #919191,
         1px 3px 1px #919191,
@@ -42,7 +36,7 @@
 
     text-transform: uppercase;
     font-family: verdana;
-    color: #a5a5a5;
+    color: #000000;
     text-shadow: 1px 1px 1px #919191,
         1px 2px 1px #919191,
         1px 3px 1px #919191,
@@ -75,7 +69,7 @@
 
     text-transform: uppercase;
     font-family: verdana;
-    color: #ffffff;
+    color: #000000;
     text-shadow: 1px 1px 1px #919191,
         1px 1px 1px #919191,
     1px 18px 6px rgba(16,16,16,0.4),
@@ -94,30 +88,18 @@
     transition: ease-out 0.3;
     font-size: 2rem;
     outline: none;
-    border: 3px solid rgb(147, 0, 255);
+    border: 3px solid rgb(52, 28, 184);
     position: relative;
     z-index: 1;
-    background-color: rgb(106, 0, 192);
+    background-color: rgb(52, 28, 184);
 }
 
-.menu{
+.menu {
     width: auto;
     height: auto;
     border: 3px solid rgb(114, 59, 156);
 }
 
-.menu:hover{
-    background-color: rgba(80, 28, 121, 0.4);
-}
-
-#titolo{
-    text-align: center;
-    padding: 200px 0;
-    color: rgb(205, 196, 233);
-}
-
-.desc{
-    margin: 50px;
-    padding: 0 100px;
-    color: rgba(255, 255, 255, 0.916);
+.menu:before{
+    background-color: rgb(114, 59, 156, 0.3);
 }

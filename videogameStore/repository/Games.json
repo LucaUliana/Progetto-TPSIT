@@ -1,12 +1,13 @@
 [
     {
-        "nome": "Fortnite",
+        "nome": "Fortnite", 
         "nomeSviluppatore": "Epic games",
         "descrizione" : "L'OI ha schierato guardie e Astrostazioni, ma la Ribellione ha dalla sua nuove tattiche, come lo scatto, l'arrampicata e altro ancora. Sali a bordo di un Bus della battaglia corazzato per diventare più forte o attacca un Acchiappamucche al tuo camion per ottenere maggiore forza di speronamento. Sfida i tuoi avversari nella battaglia finale per il Punto zero nel Capitolo 3, Stagione 2: Ribellione!",
         "valutazione": "5.0",
         "prezzo": "gratuito",
         "immagine": "../img/fortnite.jpg",
-        "acquistato": true
+        "acquistato": true,
+        "controller": "../img/controller.png"
     },
     {
         "nome": "League of legends",
@@ -15,7 +16,8 @@
         "valutazione": "5.0",
         "immagine": "../img/lol.png",
         "prezzo": "gratuito",
-        "acquistato": true
+        "acquistato": true,
+        "controller": "../img/divieto.png"
     },
     {
         "nome": "PlayerUnknowns </br> Battlegrounds",
@@ -24,7 +26,8 @@
         "descrizione" : "ATTERRA, SACCHEGGIA, SOPRAVVIVI!<br>Gioca gratuitamente a PUBG: BATTLEGROUNDS.<br>Atterra in luoghi strategici, fai incetta di armi e rifornimenti e sopravvivi per far sì che la tua squadra sia l'ultima a rimanere in gioco.<br>Fai squadra e scendi in campo per un'autentica esperienza Battle Royale che solo PUBG: BATTLEGROUNDS può offrire.",
         "immagine": "../img/pubg.jpg",
         "prezzo": "gratuito",
-        "acquistato": false
+        "acquistato": false,
+        "controller": "../img/controller.png"
     },
     {
         "nome": "The Binding <br> of Isaac: Afterbirth",
@@ -33,7 +36,8 @@
         "descrizione" : "Quando la madre di Isaac inizia a sentire la voce di Dio che richiede il compimento di un sacrificio per dimostrare la sua fede, Isaac scappa nei seminterrato affrontando frotte di nemici squilibrati, fratelli e sorelle perduti, le sue paure, e all fine anche sua madre.<br>The Binding of Isaac è uno Shooter GDR fatto di livelli casualmente generati con elementi estremamente simili al Rogue. Seguendo Isaac nel suo viaggio i giocatori troveranno tesori bizzarri che cambieranno le forme di Isaac dandogli poteri sovrumani e permettendogli di combattere frotte di creature misteriose, scoprire segreti e lottare per la via della salvezza.",
         "immagine": "../img/tbosa.jpeg",
         "prezzo": "<s>14,99€</s> gratuito",
-        "acquistato": false
+        "acquistato": false,
+        "controller": "../img/controller.png"
     },
     {
         "nome": "Counter Strike: <br> Global Offensive",
@@ -42,7 +46,8 @@
         "descrizione" : "Counter-Strike: Global Offensive (CS:GO) amplia il gameplay d'azione a squadre presentato per la prima volta 19 anni fa. CS:GO include nuove mappe, personaggi, armi e modalità di gioco e offre versioni aggiornate del classico contenuto di Counter-Strike (de_dust2, ecc.).",
         "immagine": "../img/csgo.jpg",
         "prezzo": "gratuito",
-        "acquistato": true
+        "acquistato": true,
+        "controller": "../img/divieto.png"
     },
     {
         "nome": "Minecraft",
@@ -51,7 +56,8 @@
         "descrizione" : "Preparati a un'avventura con possibilità illimitate mentre costruisci, estrai, combatti mob ed esplori il paesaggio in continua evoluzione di Minecraft.",
         "immagine": "../img/minecraft.jpg",
         "prezzo": "23,95€",
-        "acquistato": false
+        "acquistato": false,
+        "controller": "../img/controller.png"
     },
     {
         "nome": "Clash Royale",
@@ -60,7 +66,8 @@
         "descrizione" : "multiplayer gratuito in tempo reale i cui protagonisti sono i personaggi di Clash of Clans. I Royale si sfidano in epiche battaglie 1v1 e 2v2, nelle quali è soprattutto l'astuzia a fare la differenza.",
         "immagine": "../img/clash royale.jpg",
         "prezzo": "gratuito",
-        "acquistato": false
+        "acquistato": false,
+        "controller": "../img/divieto.png"
     },
     {
         "nome": "Rocket League",
@@ -69,7 +76,8 @@
         "descrizione" : "Scarica e unisciti alla sfida in questo incredibile ibrido del calcio arcade e del caos tra macchine! Personalizza la tua vettura, scendi in campo e metti in mostra le tue abilità in uno dei più amati giochi di sport di tutti i tempi! Scaricalo e fai la tua mossa!<br><br>Scendi in campo da solo o con i tuoi amici e goditi le modalità online 1v1, 2v2 e 3v3 oppure scopri le modalità addizionali Rissa, Snow Day e Canestro. Sblocca gli oggetti del Rocket Pass, scala i livelli competitivi, sfida gli avversari nei tornei competitivi, completa le sfide, approfitta dei progressi multipiattaforma e molto di più! Il campo ti sta aspettando. Fai la tua mossa!",
         "immagine": "../img/rocket league.jpg",
         "prezzo": "gratuito",
-        "acquistato": true
+        "acquistato": true,
+        "controller": "../img/controller.png"
     },
     {
         "nome": "The Forest",
@@ -78,7 +86,8 @@
         "descrizione" : "Nei panni dell'unico sopravvissuto a un incidente di un aereo, ti ritrovi in ​​una foresta misteriosa a combattere per sopravvivere contro una società di mutanti cannibali. Costruisci, esplora, sopravvivi in ​​questo terrificante simulatore di survival horror in prima persona.",
         "immagine": "../img/the forest.jpg",
         "prezzo": "16,79€",
-        "acquistato": true
+        "acquistato": true,
+        "controller": "../img/controller.png"
     },
     {
         "nome": "Terraria",
@@ -87,7 +96,8 @@
         "descrizione" : "Il mondo stesso è a portata di mano mentre combatti per la sopravvivenza, la fortuna e la gloria. Immergiti in distese cavernose, cerca nemici sempre più grandi per mettere alla prova il tuo coraggio in combattimento o costruisci la tua città - Nel mondo di Terraria, la scelta è tua!",
         "immagine": "../img/terraria.jpg",
         "prezzo": "9,99€",
-        "acquistato": false
+        "acquistato": false,
+        "controller": "../img/controller.png"
     },
     {
         "nome": "Outlast Trinity",
@@ -96,7 +106,8 @@
         "descrizione" : "Ambientato nell'era della Guerra fredda, in cui cavie umane sono reclutate a loro insaputa da 'brave persone' della Murkoff Corporation per testare nuovi metodi avanzati di lavaggio del cervello e controllo della mente. In un mondo permeato di sfiducia, paura e violenza, i tuoi principi etici saranno attaccati, la tua resistenza messa alla prova e la tua salute mentale schiacciata. Tutto nel nome del progresso, della scienza e del profitto.",
         "immagine": "../img/outlast trilogy.jpg",
         "prezzo": "16,79€",
-        "acquistato": true
+        "acquistato": true,
+        "controller": "../img/controller.png"
     },
     {
         "nome": "Among Us",
@@ -105,7 +116,8 @@
         "descrizione" : "La vita di un astronauta: completa tutti gli incarichi per vincere, ma fai attenzione agli impostori! Segnala i cadaveri e convoca riunioni d'emergenza per espellere gli impostori. Scegli con attenzione!<br><br>Gioca nei panni di un impostore: semina il caos, muoviti furtivamente e incastra astronauti innocenti! Per vincere, dovrai uccidere tutti gli astronauti... Dimostrerai di essere un maestro del sabotaggio?",
         "immagine": "../img/among us.jpg",
         "prezzo": "3,99€",
-        "acquistato": true
+        "acquistato": true,
+        "controller": "../img/divieto.png"
     },
     {
         "nome": "Grand Theft Auto <br> San Andreas",
@@ -114,7 +126,8 @@
         "descrizione" : "Cinque anni fa, Carl Johnson è fuggito dai problemi della vita di Los Santos, San Andreas, una città dilaniata da guerre tra bande, droga e corruzione. Una città in cui le star del cinema e i milionari fanno di tutto per evitare gli spacciatori e le bande.",
         "immagine": "../img/gta san andreas.jpg",
         "prezzo": "<s>60,00€</s> 29,99€",
-        "acquistato": true
+        "acquistato": true,
+        "controller": "../img/controller.png"
     },
     {
         "nome": "The Swords Of Ditto: <br> Mormos curse",
@@ -123,7 +136,8 @@
         "descrizione" : "The Swords of Ditto è un GdR d'azione compatto in cui ogni eroe della leggenda ha la propria avventura speciale, nell'inarrestabile lotta contro la malvagia Mormo.",
         "immagine": "../img/the swords of ditto.png",
         "prezzo": "12,49€",
-        "acquistato": false
+        "acquistato": false,
+        "controller": "../img/divieto.png"
     },
     {
         "nome": "Doki Doki Literature Club!",
@@ -131,8 +145,9 @@
         "valutazione": "4.4",
         "descrizione" : "È incentrato sulle vicende di un ragazzo che entra nel club di letteratura del proprio liceo e che interagisce con le quattro ragazze che vi fanno parte. La trama della storia è piuttosto lineare, con la possibilità di sbloccare scene aggiuntive e finali alternativi in base alle scelte effettuate.",
         "immagine": "../img/ddlc.jpg",
-        "prezzo": "Gratuito",
-        "acquistato": true
+        "prezzo": "gratuito",
+        "acquistato": true,
+        "controller": "../img/divieto.png"
     },
     {
         "nome": "Tom Clancys Rainbow Six Siege",
@@ -141,7 +156,8 @@
         "descrizione" : "Tom Clancy's Rainbow Six Siege è il nuovo capitolo dell'acclamato franchise di sparatutto in prima persona sviluppato dal rinomato studio Ubisoft Montreal.",
         "immagine": "../img/rainbow.jpg",
         "prezzo": "19,99€",
-        "acquistato": false
+        "acquistato": false,
+        "controller": "../img/controller.png"
     },
     {
         "nome": "Borderlands3",
@@ -149,8 +165,9 @@
         "valutazione": "3.7",
         "descrizione" : "Il leggendario sparatutto è tornato, con goziliardi di armi e un'avventura oltre i confini del caos! Esplora nuovi mondi e affronta nemici mai visti, da solo o in co-op, nei panni di uno dei quattro cacciatori della Cripta.",
         "immagine": "../img/Borderlands3.jpeg",
-        "prezzo": "14.99€€",
-        "acquistato": false
+        "prezzo": "14.99€",
+        "acquistato": false,
+        "controller": "../img/controller.png"
     },
     {
         "nome": "Godfall",
@@ -159,7 +176,8 @@
         "valutazione": "3.9",
         "immagine": "../img/Godfall.jpg",
         "prezzo": "29.99€",
-        "acquistato": false
+        "acquistato": false,
+        "controller": "../img/divieto.png"
     },
     {
         "nome": "Overcooked!2",
@@ -168,7 +186,8 @@
         "valutazione": "5.0",
         "immagine": "../img/overcooked2.jpg",
         "prezzo": "22.99€",
-        "acquistato": false
+        "acquistato": false,
+        "controller": "../img/controller.png"
     },
     {
         "nome": "Control",
@@ -177,7 +196,8 @@
         "valutazione": "3.7",
         "immagine": "../img/control.jpg",
         "prezzo": "13.99€",
-        "acquistato": false
+        "acquistato": false,
+        "controller": "../img/divieto.png"
     },
     {
         "nome": "Dandara: Trials of Fear Edition",
@@ -186,7 +206,8 @@
         "valutazione": "2.1",
         "immagine": "../img/dandara.jpg",
         "prezzo": "gratuito",
-        "acquistato": true
+        "acquistato": true,
+        "controller": "../img/divieto.png"
     },
     {
         "nome": "NBA 2K21",
@@ -195,7 +216,8 @@
         "valutazione": "4.7",
         "immagine": "../img/NBA2k21.jpg",
         "prezzo": "<s>59.99€</s> 19.99€",
-        "acquistato": true
+        "acquistato": true,
+        "controller": "../img/controller.png"
     },
     {
         "nome": "The Escapists",
@@ -204,7 +226,8 @@
         "valutazione": "5.0",
         "immagine": "../img/Escapist.png",
         "prezzo": "14.99€",
-        "acquistato": false
+        "acquistato": false,
+        "controller": "../img/divieto.png"
     },
     {
         "nome": "Deponia: The Complete Journey",
@@ -213,7 +236,8 @@
         "valutazione": "2.7",
         "immagine": "../img/deponia.jpg",
         "prezzo": "<s>29.99€</s> 13.99€",
-        "acquistato": false
+        "acquistato": false,
+        "controller": "../img/divieto.png"
     },
     {
         "nome": "Guild of Dungeoneering",
@@ -222,7 +246,8 @@
         "valutazione": "0.7",
         "immagine": "../img/dungeon.jpg",
         "prezzo": "gratuito",
-        "acquistato": true
+        "acquistato": true,
+        "controller": "../img/divieto.png"
     },
     {
         "nome": "Knockout City™",
@@ -230,8 +255,9 @@
         "descrizione": "Ti aspettiamo a Knockout City™ per una prova GRATUITA e senza limiti di livello*! Metti insieme la tua squadra e affrontate le crew rivali in EPICHE BATTAGLIE DI DODGEBALL per stabilire chi sono i migliori nelle partite multigiocatore a squadre.",
         "valutazione": "4.1",
         "immagine": "../img/city.jpg",
-        "prezzo": "29.99",
-        "acquistato": true
+        "prezzo": "29.99€",
+        "acquistato": true,
+        "controller": "../img/controller.png"
     },
     {
         "nome": "Riverbond",
@@ -239,8 +265,9 @@
         "descrizione": "Riverbound è un frenetico gioco d'avventura cooperativo 'da divano' per uno a quattro giocatori, ambientato in uno spettacolare mondo voxel. Lanciati in un viaggio eroico per completare missioni, combattere adorabili nemici e ridurre ogni cosa a cubetti!",
         "valutazione": "4.7",
         "immagine": "../img/rive.jpg",
-        "prezzo": "<s>19.99</s> 15.99",
-        "acquistato": true
+        "prezzo": "<s>19.99€</s> 15.99€",
+        "acquistato": true,
+        "controller": "../img/divieto.png"
     },
     {
         "nome": "Subnautica",
@@ -248,7 +275,8 @@
         "descrizione": "Subnautica è un gioco di avventura sottomarina ambientato su un pianeta oceanico alieno. Un gigantesco gioco open world pieno di meraviglie e pericoli ti attende!",
         "valutazione": "3.7",
         "immagine": "../img/subanutica.jpg",
-        "prezzo": "49.99",
-        "acquistato": true
+        "prezzo": "49.99€",
+        "acquistato": true,
+        "controller": "../img/controller.png"
     }
 ]

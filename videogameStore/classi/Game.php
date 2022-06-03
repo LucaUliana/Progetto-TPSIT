@@ -8,15 +8,17 @@ class Game{
     public $immagine;
     public $acquistato;
     public $descrizione;
+    public $controller;
 
-    function __construct($pNome, $pNomeSviluppatore, $pValutazione, $pPrezzo, $pimmagine, $pAcquistato, $pDescrizione){
+    function __construct($pNome, $pNomeSviluppatore, $pValutazione, $pPrezzo, $pimmagine, $pAcquistato, $pDescrizione, $pController){
         $this->nome = $pNome;
         $this->nomeSviluppatore = $pNomeSviluppatore;
         $this->valutazione = $pValutazione;
         $this->prezzo = $pPrezzo;
         $this->immagine = $pimmagine;
         $this->acquistato = $pAcquistato;
-        $this->descrizione = $pDescrizione;
+        $this->descrizione = $pDescrizione;        
+        $this->controller = $pController;
     }
 
     function compra(){

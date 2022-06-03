@@ -38,6 +38,7 @@
 		<div class='gioco'>
 			<img class='immagineGioco' src = '$obj->immagine'>
 			<div class='descrizione'>
+				<img class='controller' src = '$obj->controller'>
 				<p class = 'nome'>$obj->nome</p>
 				<p class = 'nomeSviluppatore'>$obj->nomeSviluppatore</p>
 				<p class = 'valutazione'>Valutazione: <br>$obj->valutazione / 5.0</p>
@@ -53,6 +54,7 @@
 				<div class='gioco'>
 					<img class='immagineGioco' src = '$obj->immagine'>
 					<div class='descrizione'>
+						<img class='controller' src = '$obj->controller'>
 						<p class = 'nome'>$obj->nome</p>
 						<p class = 'nomeSviluppatore'>$obj->nomeSviluppatore</p>
 						<p class = 'valutazione'>Valutazione: <br>$obj->valutazione / 5.0</p>
