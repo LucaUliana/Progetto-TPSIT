@@ -14,7 +14,12 @@
 .immagineGioco{
     height: 400px;
     width: 250px;
-    border: 4px solid rgb(52, 11, 165);
+    border: 4px solid rgba(52, 11, 165, 0.363);
+}
+
+.immagineGioco:hover{
+    height: 405px;
+    width: 255px;
 }
 
 button[type="submit"] {
@@ -25,7 +30,6 @@ button[type="submit"] {
 
 button[type="submit"]:before{
     background-color:rgba(24, 20, 20, 0.61);
-    ;
 }
 
 .gioco{

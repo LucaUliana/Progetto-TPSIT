@@ -37,19 +37,14 @@
 		
 
 		foreach($arrayGame as $obj) {
-
 			echo "
 			<form method='get' action='gamePage.php'>
 				<div class=\"gioco\">
 				<img class='immagineGioco' src='$obj->immagine'/>
 					<button class='menu' type='submit' name='percorso' value='$obj->nome'> $obj->nome </button>
 				</div>
-			</form>
-			
-			";
-
+			</form>";
 		}
-
 		?>
 		
 		</div>

@@ -38,10 +38,12 @@
 		foreach($arrayGame as $obj) {
 			if ($obj->acquistato == true){
 				echo "
+				<form method='get' action='gamePage.php'>
 				<div class=\"gioco\">
-				<a href=\"gamePage.php\"> <img class = \"immagineGioco\" src = \"$obj->immagine\"></a>
-				<p class = \"gioco\">$obj->nome</p>
-				</div>";
+				<img class='immagineGioco' src='$obj->immagine'/>
+					<button class='menu' type='submit' name='percorso' value='$obj->nome'> $obj->nome </button>
+				</div>
+			</form>";
 			}
 			
 		}
