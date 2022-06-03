@@ -2,23 +2,6 @@
     <head>
         <title>Videogame Shop</title>
         <link rel="stylesheet" href="../css/style.css">
-
-		<script>
-        function toggleTheme() {
-            // Obtains an array of all <link>
-            // elements.
-            // Select your element using indexing.
-            var theme = document.getElementsByTagName('link')[0];
-  
-            // Change the value of href attribute 
-            // to change the css sheet.
-            if (theme.getAttribute('href') == '../css/style.css') {
-                theme.setAttribute('href', '../css/styleChiaro.css');
-            } else {
-                theme.setAttribute('href', '../css/style.css');
-            }
-        }
-    </script>
     </head>
     <body>
         <header>
@@ -34,7 +17,8 @@
 			<button class="nav">Profile</button>
 			</a>
 		</header>
-			<button onclick="toggleTheme()" class="browsing" id="scuro">Tema Scuro / Chiaro</button> !!Opzione sperimentale!!
+			<button class="browsing" id="scuro">Tema Scuro</button>
 
+			<button class="browsing" id="chiaro">Tema Chiaro</button>
     </body>
 </html>

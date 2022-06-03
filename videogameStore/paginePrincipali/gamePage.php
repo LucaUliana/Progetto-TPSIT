@@ -40,7 +40,7 @@
 			<div class='descrizione'>
 				<p class = 'nome'>$obj->nome</p>
 				<p class = 'nomeSviluppatore'>$obj->nomeSviluppatore</p>
-				<p class = 'valutazione'>Valutazione:<br>$obj->valutazione / 5.0</p>
+				<p class = 'valutazione'>Valutazione: <br>$obj->valutazione / 5.0</p>
 				<p class = 'prezzo'>$obj->prezzo</p>
 				<div class = 'posseduto'>Posseduto</div>
 			</div>
@@ -55,7 +55,7 @@
 					<div class='descrizione'>
 						<p class = 'nome'>$obj->nome</p>
 						<p class = 'nomeSviluppatore'>$obj->nomeSviluppatore</p>
-						<p class = 'valutazione'>Valutazione:<br>$obj->valutazione / 5.0</p>
+						<p class = 'valutazione'>Valutazione: <br>$obj->valutazione / 5.0</p>
 						<p class = 'prezzo'>$obj->prezzo</p>
 						<input type='submit' class = 'menu' name='action' value='Compra'></input>
 					</div>

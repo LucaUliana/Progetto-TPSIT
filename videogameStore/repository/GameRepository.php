@@ -37,7 +37,6 @@ class GameRepository {
                     $objDB["immagine"],
                     $objDB["acquistato"],
                     $objDB["descrizione"],
-                    
                 );
                 // ultimo volume memorizzato (attributo di stato)
                 // aggiunge l'istanza di giocho all'array

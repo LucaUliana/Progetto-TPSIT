@@ -9,6 +9,15 @@
         "acquistato": true
     },
     {
+        "nome": "League of legends",
+        "nomeSviluppatore": "Riot Games",
+        "descrizione": "Libera la tua corsia, affronta epici combattimenti a squadre 5v5 e distruggi il nexus nemico prima che l'avversario distrugga il tuo.",
+        "valutazione": "5.0",
+        "immagine": "../img/lol.png",
+        "prezzo": "gratuito",
+        "acquistato": true
+    },
+    {
         "nome": "PlayerUnknowns </br> Battlegrounds",
         "nomeSviluppatore": "Krafton",
         "valutazione": "3.9",
@@ -23,7 +32,7 @@
         "valutazione": "4.4",
         "descrizione" : "Quando la madre di Isaac inizia a sentire la voce di Dio che richiede il compimento di un sacrificio per dimostrare la sua fede, Isaac scappa nei seminterrato affrontando frotte di nemici squilibrati, fratelli e sorelle perduti, le sue paure, e all fine anche sua madre.<br>The Binding of Isaac è uno Shooter GDR fatto di livelli casualmente generati con elementi estremamente simili al Rogue. Seguendo Isaac nel suo viaggio i giocatori troveranno tesori bizzarri che cambieranno le forme di Isaac dandogli poteri sovrumani e permettendogli di combattere frotte di creature misteriose, scoprire segreti e lottare per la via della salvezza.",
         "immagine": "../img/tbosa.jpeg",
-        "prezzo": "14,99€",
+        "prezzo": "<s>14,99€</s> gratuito",
         "acquistato": false
     },
     {
@@ -104,8 +113,8 @@
         "valutazione": "4.2",
         "descrizione" : "Cinque anni fa, Carl Johnson è fuggito dai problemi della vita di Los Santos, San Andreas, una città dilaniata da guerre tra bande, droga e corruzione. Una città in cui le star del cinema e i milionari fanno di tutto per evitare gli spacciatori e le bande.",
         "immagine": "../img/gta san andreas.jpg",
-        "prezzo": "60,00€",
-        "acquistato": false
+        "prezzo": "<s>60,00€</s> 29,99€",
+        "acquistato": true
     },
     {
         "nome": "The Swords Of Ditto: <br> Mormos curse",
@@ -133,5 +142,113 @@
         "immagine": "../img/rainbow.jpg",
         "prezzo": "19,99€",
         "acquistato": false
+    },
+    {
+        "nome": "Borderlands3",
+        "nomeSviluppatore": "Gearbox Software",
+        "valutazione": "3.7",
+        "descrizione" : "Il leggendario sparatutto è tornato, con goziliardi di armi e un'avventura oltre i confini del caos! Esplora nuovi mondi e affronta nemici mai visti, da solo o in co-op, nei panni di uno dei quattro cacciatori della Cripta.",
+        "immagine": "../img/Borderlands3.jpeg",
+        "prezzo": "14.99€€",
+        "acquistato": false
+    },
+    {
+        "nome": "Godfall",
+        "nomeSviluppatore": "Counterplay Games",
+        "descrizione": "Godfall: Ultimate Edition è il modo migliore e più completo per vivere Godfall. Vivi questa esperienza in un unico pacchetto: il gioco base, l'espansione Fire & Darkness e sblocca i pacchetti decorativi Ascended e Pre-order da portare nel tuo viaggio.",
+        "valutazione": "3.9",
+        "immagine": "../img/Godfall.jpg",
+        "prezzo": "29.99€",
+        "acquistato": false
+    },
+    {
+        "nome": "Overcooked!2",
+        "nomeSviluppatore": "Ghost Town Games and Team17 Digital Ltd",
+        "descrizione": "Overcooked torna con una nuova gustosa porzione di caotica azione culinaria! Visita di nuovo il Regno delle Cipolle e raduna la tua brigata di chef per organizzare classiche partite cooperative oppure giocare online fino a quattro giocatori. Allacciati il grembiule... È ora di salvare il mondo, di nuovo!",
+        "valutazione": "5.0",
+        "immagine": "../img/overcooked2.jpg",
+        "prezzo": "22.99€",
+        "acquistato": false
+    },
+    {
+        "nome": "Control",
+        "nomeSviluppatore": "Remedy Entertainment",
+        "descrizione": "L'invasione di un'agenzia segreta di New York da parte di una minaccia ultraterrena ti porta a diventare la nuova direttrice: dovrai lottare per riconquistare Control.",
+        "valutazione": "3.7",
+        "immagine": "../img/control.jpg",
+        "prezzo": "13.99€",
+        "acquistato": false
+    },
+    {
+        "nome": "Dandara: Trials of Fear Edition",
+        "nomeSviluppatore": "Long Hat House",
+        "descrizione": "In uno strano universo in cui gli oppressi sono sull'orlo dell'oblio, Dandara si è risvegliata per cambiare il mondo. Benvenuti in un esclusivo platform 2D in stile metroidvania pieno di creature mistiche e con possibilità di esplorazione illimitate.",
+        "valutazione": "2.1",
+        "immagine": "../img/dandara.jpg",
+        "prezzo": "gratuito",
+        "acquistato": true
+    },
+    {
+        "nome": "NBA 2K21",
+        "nomeSviluppatore": "Concept visivi        ",
+        "descrizione": "NBA 2K21 è l'ultimo capitolo della serie NBA 2K, campione di vendite e famoso a livello mondiale. Grazie agli emozionanti miglioramenti del suo sistema di gioco leader del settore, alle funzionalità online competitive e di community, e alle varie e approfondite modalità di gioco, NBA 2K21 offre un'immersione unica per tutte le sfaccettature della pallacanestro e della cultura dell'NBA in cui... 'Everything is Game'.",
+        "valutazione": "4.7",
+        "immagine": "../img/NBA2k21.jpg",
+        "prezzo": "<s>59.99€</s> 19.99€",
+        "acquistato": true
+    },
+    {
+        "nome": "The Escapists",
+        "nomeSviluppatore": "Moldy Toof Studios",
+        "descrizione": "Sei di nuovo in prigione e la tua unica possibilità è quella di escogitare un piano di fuga con qualsiasi mezzo possibile. Sta a te decidere come! Che ne dici di provocare una rivolta? O scavare un tunnel proprio sotto le mura del carcere? O addirittura rubare un'uniforme da guardia per confonderti con i tuoi carcerieri?",
+        "valutazione": "5.0",
+        "immagine": "../img/Escapist.png",
+        "prezzo": "14.99€",
+        "acquistato": false
+    },
+    {
+        "nome": "Deponia: The Complete Journey",
+        "nomeSviluppatore": "Daedalic Entertainment",
+        "descrizione": "Immondizia, immondizia e ancora immondizia. Il pianeta-discarica di Deponia è tutto l'opposto di una piacevole passeggiata nella natura. Non sorprende quindi che Rufus ne abbia abbastanza e stia cercando di mettere a punto un piano dopo l'altro per fuggire da questo luogo disgustoso.",
+        "valutazione": "2.7",
+        "immagine": "../img/deponia.jpg",
+        "prezzo": "<s>29.99€</s> 13.99€",
+        "acquistato": false
+    },
+    {
+        "nome": "Guild of Dungeoneering",
+        "nomeSviluppatore": "Gambrinous",
+        "descrizione": "Guild of Dungeoneering è un gioco di carte a turni, che striscia nel dungeon, con una svolta: invece di controllare l'eroe, costruisci il dungeon attorno a lui.",
+        "valutazione": "0.7",
+        "immagine": "../img/dungeon.jpg",
+        "prezzo": "gratuito",
+        "acquistato": true
+    },
+    {
+        "nome": "Knockout City™",
+        "nomeSviluppatore": "Velan Studios",
+        "descrizione": "Ti aspettiamo a Knockout City™ per una prova GRATUITA e senza limiti di livello*! Metti insieme la tua squadra e affrontate le crew rivali in EPICHE BATTAGLIE DI DODGEBALL per stabilire chi sono i migliori nelle partite multigiocatore a squadre.",
+        "valutazione": "4.1",
+        "immagine": "../img/city.jpg",
+        "prezzo": "29.99",
+        "acquistato": true
+    },
+    {
+        "nome": "Riverbond",
+        "nomeSviluppatore": "Cococucumber",
+        "descrizione": "Riverbound è un frenetico gioco d'avventura cooperativo 'da divano' per uno a quattro giocatori, ambientato in uno spettacolare mondo voxel. Lanciati in un viaggio eroico per completare missioni, combattere adorabili nemici e ridurre ogni cosa a cubetti!",
+        "valutazione": "4.7",
+        "immagine": "../img/rive.jpg",
+        "prezzo": "<s>19.99</s> 15.99",
+        "acquistato": true
+    },
+    {
+        "nome": "Subnautica",
+        "nomeSviluppatore": "Unknown Worlds Entertainment",
+        "descrizione": "Subnautica è un gioco di avventura sottomarina ambientato su un pianeta oceanico alieno. Un gigantesco gioco open world pieno di meraviglie e pericoli ti attende!",
+        "valutazione": "3.7",
+        "immagine": "../img/subanutica.jpg",
+        "prezzo": "49.99",
+        "acquistato": true
     }
 ]
