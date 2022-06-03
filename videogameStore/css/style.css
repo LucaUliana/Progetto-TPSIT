@@ -3,8 +3,8 @@
 * {
     font-family: 'Source Sans Pro', sans-serif;
     letter-spacing: 4px;
-    background-color: #25252A;
-    color: rgb(216, 205, 255);
+    background-color: rgb(19, 17, 17);
+    color: rgb(101, 100, 104);
 }
 
 
@@ -24,18 +24,18 @@
     width: 300px;
     height: 100px;
     border: none;
-    color: white;
+    color: rgb(190, 190, 190);
     border-radius: 4px;
     transition: ease-out 0.3;
     font-size: 2rem;
     outline: none;
-    border: 3px solid #62BBF2;
+    border: 3px solid rgb(143, 0, 255);
     position: relative;
     z-index: 1;
 }
 
 .menu:hover{
-    color: #fff;
+    color: rgb(190, 190, 190);
     cursor: pointer;
 }
 
@@ -48,7 +48,7 @@
     bottom: 0;
     opacity: 0;
     content: "";
-    background-color: #19668a;
+    background-color: rgba(173, 66, 255, 0.4);
     color: white;
 }
 
@@ -83,7 +83,7 @@ header{
 
 .nav{
     padding: 9px 25px;
-    background-color: rgb(15, 57, 184);
+    background-color: rgb(147, 0, 175);
     border: none;
     border-radius: 50px;
     cursor: pointer;
@@ -91,7 +91,7 @@ header{
 }
 
 .nav:hover{
-    background-color: rgba(34, 137, 226, 0.8);
+    background-color: rgba(173, 66, 255, 0.4);
 }
 
 
@@ -106,7 +106,7 @@ header{
     color: #edf0f1;
     text-decoration: none;
     padding: 8px 25px;
-    background-color: rgb(9, 12, 52);
+    background-color: rgb(114, 59, 156);
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -114,7 +114,7 @@ header{
 }
 
 .browsing:hover{
-    background-color: rgb(31, 31, 74);
+    background-color: rgba(173, 66, 255, 0.4);
 }
 
 

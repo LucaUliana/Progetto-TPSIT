@@ -7,22 +7,27 @@
     justify-content: space-between;
     grid-template-columns: auto auto auto auto auto auto;
     text-align: center;
+    padding-bottom: 50px;
+    padding-top: 30px;
 }
 
 .immagineGioco{
     height: 400px;
     width: 250px;
-    border: 4px solid rgb(54, 54, 46);
+    border: 4px solid rgb(52, 11, 165);
 }
 
 button[type="submit"] {
     width: auto;
     height: auto;
-    border: 1.5px solid rgba(46, 31, 31, 0.363);
+    border: 1.5px solid rgb(19, 17, 17);
 }
 
 button[type="submit"]:before{
-    background-color:rgba(46, 31, 31, 0.205);
+    background-color:rgba(24, 20, 20, 0.61);
     ;
 }
 
+.gioco{
+    padding-bottom: 70px;
+}
