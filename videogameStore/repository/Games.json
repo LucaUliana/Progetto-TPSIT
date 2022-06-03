@@ -133,5 +133,22 @@
         "immagine": "../img/rainbow.jpg",
         "prezzo": "19,99€",
         "acquistato": false
+    },
+    {
+        "nome": "Acquista Borderlands3",
+        "nomeSviluppatore": "Gearbox Software",
+        "valutazione": "3.7",
+        "descrizione" : "Il leggendario sparatutto è tornato, con goziliardi di armi e un'avventura oltre i confini del caos! Esplora nuovi mondi e affronta nemici mai visti, da solo o in co-op, nei panni di uno dei quattro cacciatori della Cripta.",
+        "immagine": "../img/Borderlands3.jpeg",
+        "prezzo": "14.99€",
+        "acquistato": false
+    },
+    {
+        "nome": "Godfall",
+        "nomeSviluppatore": "Counterplay Games",
+        "valutazione": "valutazione: 3.9",
+        "immagine": "../img/Godfall.jpg",
+        "prezzo": "29.99",
+        "acquistato": false
     }
 ]
